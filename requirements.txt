@@ -2,7 +2,7 @@ python-dotenv
 pandas
 numpy
 statsmodels
-FinanceDataReader
+finance-datareader
 yfinance
 scipy
 tqdm
