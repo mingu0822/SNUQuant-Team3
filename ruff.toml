@@ -1,0 +1,2 @@
+[lint]
+ignore = ["E402"]  # 노트북 셀 중간 import 허용
