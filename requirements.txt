@@ -1,0 +1,10 @@
+pandas
+numpy
+statsmodels
+FinanceDataReader
+yfinance
+scipy
+tqdm
+matplotlib
+OpenDartReader
+requests
