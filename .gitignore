@@ -211,3 +211,6 @@ __marimo__/
 
 # Data files (parquet/json — 재생성 가능, 용량 큼)
 data/
+
+# 캐시 파일 (API 호출 결과 캐싱 — 재생성 가능)
+docs_cache/
